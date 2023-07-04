@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/cyijun?template=classic&base.skip=true&stargazers=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=true&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=0&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=true&stargazers.worldmap.sample=0&config.timezone=Asia%2FShanghai&config.octicon=true)
+![Metrics](github-metrics.svg)
 
 <!--
 **cyijun/cyijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
